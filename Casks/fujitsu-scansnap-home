@@ -1,0 +1,7 @@
+cask 'fujitsu-scansnap-home' do
+  sha256 '82ffef943295a85193156a14f53fa9b2154f300fa88f6df6c4f58584cfe34ef2'
+
+  url 'http://origin.pfultd.com/downloads/ss/sshinst/m-141/MacSSHDownloadInstaller_1_4_1.dmg'
+  name 'ScanSnap Home'
+  homepage 'https://www.fujitsu.com/fr/products/computing/peripheral/scanners/scansnap/software/sshome/'
+end
